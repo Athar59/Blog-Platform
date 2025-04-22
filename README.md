@@ -39,7 +39,7 @@ A Java-based web application that enables users to register, log in, create and 
       ```sh
       git clone https://github.com/Athar59/Blog-Website.git
       ```
-  3. Import blog.sql into MySQL and configure DBConnection.java.
+  3. Import blogs_data.sql into MySQL and configure DBConnection.java.
 
   4. Build & deploy:
      
