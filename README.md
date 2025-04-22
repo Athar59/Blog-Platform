@@ -35,17 +35,20 @@ A Java-based web application that enables users to register, log in, create and 
 
 ### ▶️ **Steps to Run**
   1. Clone the repository.
-    ```sh
-    git clone https://github.com/Athar59/Blog-Website.git
-    ```
-  2. Import blog.sql into MySQL and configure DBConnection.java.
+     
+      ```sh
+      git clone https://github.com/Athar59/Blog-Website.git
+      ```
+  3. Import blog.sql into MySQL and configure DBConnection.java.
 
-  3. Build & deploy:
-    ```sh
-    mvn clean install
-    ```
-    - Deploy the WAR file to Tomcat.
-    - Start Tomcat and visit http://localhost:8080/Blog-Platform in your browser.
+  4. Build & deploy:
+     
+      ```sh
+      mvn clean install
+      ```
+    
+  - Deploy the WAR file to Tomcat.
+  - Start Tomcat and visit http://localhost:8080/Blog-Platform in your browser.
 
 📖 Usage Guide
   1. **Sign Up / Log In** – Create an account to manage your blog posts.
